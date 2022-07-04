@@ -112,7 +112,7 @@ section:not(.footer) {
   section:not(.footer) {
     padding-bottom: 100px;
   }
-  .display-flex {
+  .display-flex:not(.experiences-area-display) {
     text-align: center;
     justify-content: center;
     align-items: center;
