@@ -1,0 +1,59 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+/* ROOT CSS STYLE START */
+.display-flex {
+  display: flex;
+}
+.half-container {
+  width: 50%;
+  padding: 5%;
+}
+.title {
+  font-size: 50px;
+  font-weight: 600;
+}
+.primary-color {
+  color: #ffa500;
+}
+.secondary-color {
+  color: #ff6347;
+}
+.section {
+  padding-bottom: 150px;
+}
+.button {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px 40px;
+  border-radius: 5px;
+  background-image: linear-gradient(to right, #ffa500, #ff6347);
+}
+.para {
+  padding-bottom: 10px;
+}
+/* ROOT CSS STYLE END */
+
+/* HEADER TOP START */
+.header-top {
+  background: url("images/top-banner.png");
+  background-repeat: no-repeat;
+  background-position: cover;
+}
+
+.header-top .top-cover-img img {
+  width: 100%;
+}
+/* HEADER TOP END */
+
+/* DREAM BIG START */
+
+/* DREAM BIG END */
